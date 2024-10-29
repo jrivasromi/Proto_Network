@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HIduxNxZEO1oK-PVGiLZ-2377" value="" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1188" y="140" width="234.87" height="234.87" as="geometry" />
+        </mxCell>
         <mxCell id="2108" value="" style="shape=mxgraph.cisco.security.pix_firewall;html=1;dashed=0;fillColor=#10739E;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;fontFamily=Helvetica;fontSize=36;fontColor=#FFB366" parent="1" vertex="1">
           <mxGeometry x="1206" y="252" width="77" height="51" as="geometry" />
         </mxCell>
@@ -272,6 +275,12 @@
         </mxCell>
         <mxCell id="HIduxNxZEO1oK-PVGiLZ-2375" value="&lt;font color=&quot;#23445d&quot;&gt;Inverter&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#742B21;align=center;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1646" y="678" width="73" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="HIduxNxZEO1oK-PVGiLZ-2378" value="&lt;font style=&quot;font-size: 25px;&quot; color=&quot;#23445d&quot;&gt;Cisco ASR 9001&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#742B21;align=center;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1233.93" y="170" width="143" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="HIduxNxZEO1oK-PVGiLZ-2379" value="&lt;font color=&quot;#23445d&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;SmartAX EA5801&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#742B21;align=center;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1501.5" y="170" width="143" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
